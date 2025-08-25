@@ -1,9 +1,9 @@
-# String Library in C++
+# 📚 String Library in C++
 
-## Overview: 
+## ✨ Overview: 
 This project demonstrates a custom C++ class (clsString) that provides advanced string manipulation features beyond the standard library using object oriented programming.
 
-## Requirements: 
+## 🛠️ Requirements: 
 - A C++ compiler (GCC, Clang, MSVC, etc.)
 
 ## Example Usage:
